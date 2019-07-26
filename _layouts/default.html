@@ -1,0 +1,50 @@
+---
+---
+
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.11.2 by Michael Rose
+  Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div class="initial-content">
+      {{ content }}
+    </div>
+
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include search/search_form.html %}
+      </div>
+    {% endif %}
+
+    <div class="license">
+      <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">DevBytes</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://www.tiffanyrwhite.com" property="cc:attributionName" rel="cc:attributionURL">DevBytes</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="https://purl.org/dc/terms/" href="https://devbytes.tech" rel="dct:source">https://devbytes.tech</a>.
+    </div>
+
+    <!-- <div class="patreon">
+      <a href="https://www.patreon.com/bePatron?u=1009398" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+      <script src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+    </div> -->
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>

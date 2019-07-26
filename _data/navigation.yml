@@ -1,0 +1,22 @@
+# main links links
+main:
+- title: "Home"
+  url: https://devbytes.tech
+
+- title: "Tag Archive"
+  url: /tags/
+
+- title: "Category Archive"
+  url: /categories/
+
+- title: "Archive"
+  url: /year-archive/
+
+- title: About
+  url: /about/
+
+
+- title: Links
+  url: https://www.tiffanyrwhite.com
+
+
