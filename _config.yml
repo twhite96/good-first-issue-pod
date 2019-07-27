@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DevBytes"
+title                    : "Good First Issue"
 title_separator          : "|"
-name                     : "DevBytes"
-description              : "DevBytes: Never longer than 30 minutes."
-url                      : "https://devbytes.tech"
+name                     : "Good First Issue"
+description              : "A podcast for career changing junior devs, in just under 30 minutes."
+url                      : "https://goodfirstissue.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -60,12 +60,12 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
 search_full_content      : true
-search_provider          : "algolia"
-algolia:
-  application_id         : VVKLD2O8OY
-  index_name             : devbytes
-  search_only_api_key    : ce7660039cd338fcfa54fbce856ddd0a
-  powered_by             : true
+search_provider          : "lunr"
+# algolia:
+#   application_id         : VVKLD2O8OY
+#   index_name             : devbytes
+#   search_only_api_key    : ce7660039cd338fcfa54fbce856ddd0a
+#   powered_by             : true
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "DevBytes"
-  avatar           : "/assets/images/devbytes_icon.jpg"
-  bio              : "Web stuff in the time it takes from your first bite of lunch till your last."
+  name             : "Good First Issue"
+  avatar           : "/assets/images/icon.png"
+  bio              : "A podcast for career changing junior devs, in just under 30 minutes."
   location         : "The Internet"
-  email            : "feedback@devbytes.tech"
+  email            : "hey@tiffanyrwhite.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -113,11 +113,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  # github           : "twhite96"
+  github           : "twhite96"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "tiffanywhitedev"
   lastfm           :
   # linkedin         : tiffanyrwhite
   # pinterest        :
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "devbytes_pod"
+  # twitter          : "devbytes_pod"
   vine             :
   weibo            :
   xing             :

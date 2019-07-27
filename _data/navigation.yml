@@ -1,22 +1,21 @@
 # main links links
 main:
 - title: "Home"
-  url: https://devbytes.tech
+  url: https://goodfirstissue.org
 
 - title: "Tag Archive"
   url: /tags/
 
-- title: "Category Archive"
-  url: /categories/
+- title: "Blog"
+  url: https://tiffanywhite.dev
 
 - title: "Archive"
   url: /year-archive/
 
-- title: About
+- title: "About"
   url: /about/
 
-
-- title: Links
-  url: https://www.tiffanyrwhite.com
+- title: "Status"
+  url: https://status.goodfirstissue.org/
 
 
