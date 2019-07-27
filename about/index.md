@@ -15,6 +15,6 @@ Content by <a href="https://twitter.com/tiffanywhitedev">Tiffany White</a>
 
 ## Relevant Links
 
-[Tiffany R. White Blog](https://tiffanywhite.dev)
-[Portfolio](https://www.tiffanyrwhite.com)
-[Resume](https://tiffany-resume.netlify.com)
+- [Tiffany R. White Blog](https://tiffanywhite.dev)
+- [Portfolio](https://www.tiffanyrwhite.com)
+- [Resume](https://tiffany-resume.netlify.com)
