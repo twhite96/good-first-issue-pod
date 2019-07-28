@@ -9,7 +9,7 @@ comments: false
 
 *Thanks for stopping in*.
 
-Just a podcast, living on the internet, about web dev news, that's never longer than 30 minutes.
+Just a podcast, living on the internet, about career-switching juniors that need some encouraging, and sometimes stern, words. Never longer than 30 minutes.
 
 Content by <a href="https://twitter.com/tiffanywhitedev">Tiffany White</a>
 

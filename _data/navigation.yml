@@ -1,7 +1,7 @@
 # main links links
 main:
 - title: "Home"
-  url: https://goodfirstissue.org
+  url: /
 
 - title: "Tag Archive"
   url: /tags/
