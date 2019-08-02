@@ -1,7 +1,7 @@
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
     prefix: 'good-first-issue',
-    suffix: 'v1.0',
+    suffix: 'v1.1',
     precache: 'precache',
     runtime: 'runtime-cache'
   });
