@@ -8,6 +8,7 @@ group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'jekyll-feed'
   gem 'jekyll-algolia'
+  gem 'jekyll-pwa-plugin'
   gem 'jekyll-gist'
   gem 'minimal-mistakes-jekyll'
   gem 'jekyll-youtube'

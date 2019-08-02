@@ -1,0 +1,35 @@
+{
+    "name": "Good First Issue Podcast",
+    "short_name": "Good First Issue",
+    "description": "A podcast for career changing junior devs, in just under 30 minutes.",
+    "dir": "auto",
+    "lang": "en-US",
+    "display": "standalone",
+    "orientation": "any",
+    "start_url": "/index.html",
+    "background_color": "#fff",
+    "theme_color": "#06d7d9",
+    "icons": [
+      {
+        "src": "/icons/apple-touch-icon-60x60.png",
+        "sizes": "60x60",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/apple-touch-icon-76x76.png",
+        "sizes": "76x76",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/apple-icon-touch-152x152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/apple-touch-icon.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      }
+    ]
+  }
+
