@@ -1,0 +1,85 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  font-family: Helvetica;
+  user-select: none;
+  background-color: #06d7d9;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #fff;
+}
+
+h2,
+h3 {
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+path {
+  opacity: 50%;
+}
+
+.content,
+.kitties {
+  text-align: center;
+  margin: 40px 20px;
+}
+
+.kitties {
+  height: 0;
+  transition: height 0.66s ease-out;
+}
+
+.btn {
+  border-radius: .7em;
+  background-color: #fff;
+  color: #000;
+  padding: 1rem;
+  font-size: 2vmin;
+}
+
+button:focus {
+  outline:0;
+}
+
+.signature {
+  margin-top: 40px;
+}
+
+@media only screen and (max-height: 700px) {
+  h2 {
+    font-size: 1.5em;
+  }
+
+  h3 {
+    font-size: 1.0em;
+  }
+
+  .color {
+    height: 30px;
+    width: 30px;
+  }
+
+  .signature {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .content {
+    margin-bottom: 10px;
+  }
+}
