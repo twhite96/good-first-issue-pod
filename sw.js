@@ -6,6 +6,7 @@ workbox.core.setCacheNameDetails({
     runtime: 'runtime-cache'
   });
 
+  self.addEventListener('fetch', function(event) {});
   // let Service Worker take control of pages ASAP
   workbox.skipWaiting();
   workbox.clientsClaim();
