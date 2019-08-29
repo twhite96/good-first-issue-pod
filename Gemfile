@@ -17,5 +17,6 @@ group :jekyll_plugins do
   gem 'nokogiri', '~> 1.6'
   gem 'therubyracer'
   gem "html-proofer"
+  gem "jemoji"
 
 end
