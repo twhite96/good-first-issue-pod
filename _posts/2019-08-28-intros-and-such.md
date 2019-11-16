@@ -18,5 +18,4 @@ No show notes, no pressure, perhaps a cohost because one person talking into a m
 
 Sooooo give it a listen, if you'd like.
 
-
-<iframe src="https://anchor.fm/tiffany-white2/embed/episodes/Intros--Such-e543er" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/2382b3c2-93f5-406d-9cc5-36b131f843d0?dark=false"></iframe>
