@@ -21,3 +21,6 @@ npm-debug.log*
 ## Environment normalization:
 /.bundle/
 /vendor/
+
+## Scripts
+scripts/

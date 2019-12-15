@@ -104,7 +104,7 @@ author:
   avatar           : "/assets/images/icon.png"
   bio              : "A podcast for career changing junior devs, in just under 30 minutes."
   location         : "The Internet"
-  email            : "contact@goodfirstissue.org"
+  email            : "feedback@goodfirstissue.org"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
