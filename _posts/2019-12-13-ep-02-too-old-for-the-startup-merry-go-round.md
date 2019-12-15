@@ -11,7 +11,7 @@ header:
   overlay_image: https://res.cloudinary.com/goodfirstissue/image/upload/v1576386870/Headers/s1_ep0.2_startups.jpg
   overlay_filter: rgba(75, 76, 79, .5)
   caption: "Photo credit: Photo by [Mario Gogh on Unsplash](https://unsplash.com/@mariogogh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-excerpt: "I am old anc crotchety and like comfort."
+excerpt: "I am old and crotchety and like comfort."
 ---
 
 > Excuse my voice, the volume may be low, but bear with me; still learning Adobe Audition CC.
