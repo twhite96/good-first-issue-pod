@@ -15,8 +15,6 @@ group :jekyll_plugins do
   gem 'jekyll-youtube'
   gem 'jekyll-paginate'
   gem 'nokogiri', '~> 1.6'
-  gem 'therubyracer'
   gem "html-proofer"
   gem "jemoji"
-
 end
