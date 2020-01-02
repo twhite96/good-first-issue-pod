@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'json'
 gem "jekyll"
+gem 'octokit', :git => 'https://github.com/octokit/octokit.rb.git'
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
